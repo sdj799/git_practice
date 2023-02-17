@@ -1,1 +1,2 @@
-hello hello
+hello git!
+안녕안녕~
